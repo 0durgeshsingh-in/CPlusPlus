@@ -4,3 +4,8 @@
   (OOP) features, such as classes, inheritance, polymorphism, and encapsulation. 
 * C++ is designed to offer both high performance and flexibility, making it suitable for a wide range of applications, from systems software to game 
   development, real-time systems, and embedded systems.
+
+----------
+### Key features of C++
+** Object-Oriented Programming (OOP): **
+- Supports key OOP concepts such as classes and objects, inheritance, polymorphism, encapsulation, and abstraction.
