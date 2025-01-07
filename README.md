@@ -1,5 +1,6 @@
 # C++ Programming Notes 
-* Introduction 
+* Introduction
+* Character Set
 
 
 
