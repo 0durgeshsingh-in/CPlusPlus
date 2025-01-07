@@ -7,5 +7,5 @@
 
 ----------
 ### Key features of C++
-** Object-Oriented Programming (OOP): **
-- Supports key OOP concepts such as classes and objects, inheritance, polymorphism, encapsulation, and abstraction.
+**Object-Oriented Programming (OOP):**
+Supports key OOP concepts such as classes and objects, inheritance, polymorphism, encapsulation, and abstraction.
