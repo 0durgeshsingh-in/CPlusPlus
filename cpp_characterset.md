@@ -7,6 +7,37 @@
 ## Digits
  - 0-9
 ## Special Symbols
- - 
+ - Space
+ - +
+ - -
+ - *
+ - /
+ - ^
+ - \
+ - ()
+ - {}
+ - []
+ - =
+ - !=
+ - < >
+ - .
+ - $
+ - ,
+ - ;
+ - :
+ - %
+ - !
+ - &
+ - ?
+ - _ (underscore)
+ - <=
+ - >=
+ - @
 ## White Space
+ - Blank space
+ - Horizontal Space (tab)
+ - Carriage return
+ - New Line
+ - Form feed
 ## Other Characters
+ - C++ can process any of the 256 ASCII characters as data or as literals.
