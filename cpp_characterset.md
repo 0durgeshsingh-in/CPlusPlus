@@ -8,9 +8,9 @@
  - 0-9
 ## Special Symbols
  - Space
- - +
- - -
- - *
+ - plus +
+ - minus -
+ - asterisk  *
  - /
  - ^
  - \
