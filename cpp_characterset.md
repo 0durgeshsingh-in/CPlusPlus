@@ -11,23 +11,24 @@
  - plus +
  - minus -
  - asterisk  *
- - /
+ - Slash  /
  - ^
- - \
- - ()
- - {}
- - []
- - =
+ - Backslash \
+ - Parentheses  ()
+ - curly brackets {}
+ - Square brackets []
+ - Equals =
  - !=
- - < >
+ - Less than <
+ - Greater than >
  - .
  - $
  - ,
  - ;
  - :
  - %
- - !
- - &
+ - Exclamation mark !
+ - Ampersand &
  - ?
  - _ (underscore)
  - <=
