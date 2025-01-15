@@ -4,10 +4,10 @@
 - Variables are fundamental building blocks in programming, as they allow you to manipulate and store data dynamically during the execution of a program.
 
 #### Characteristics of Variables in C++
- **1.Type:** Determines the kind of data the variable can hold (e.g., integers, floating-point numbers, characters, etc.).
-  **1.Name:** The identifier used to access the variable.
-  **3.Scope:** Defines the part of the program where the variable can be accessed.
-  **4.Scope:** Determines how long the variable exists in memory.
+- **1.Type:** Determines the kind of data the variable can hold (e.g., integers, floating-point numbers, characters, etc.).
+-  **2.Name:** The identifier used to access the variable.
+-  **3.Scope:** Defines the part of the program where the variable can be accessed.
+-  **4.Scope:** Determines how long the variable exists in memory.
   
 ####  Declaring Variables
 To declare a variable in C++, you specify its type followed by its name:
