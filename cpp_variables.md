@@ -7,7 +7,12 @@
 - **1.Type:** Determines the kind of data the variable can hold (e.g., integers, floating-point numbers, characters, etc.).
 -  **2.Name:** The identifier used to access the variable.
 -  **3.Scope:** Defines the part of the program where the variable can be accessed.
--  **4.Scope:** Determines how long the variable exists in memory.
+     -  Local Scope: Declared inside a function or block, accessible only within that block.
+
+     - Global Scope: Declared outside any function, accessible throughout the program.
+
+     - Static Variables: Retain their value between function calls.
+-  **4.LifeTime:** Determines how long the variable exists in memory.
   
 ####  Declaring Variables
 To declare a variable in C++, you specify its type followed by its name:
