@@ -1,9 +1,10 @@
 # C++ Operators
  ## Operators
- - An operator is a symbol that tells the compiler to perform specific operations on operands (values or variables).
+ - An operator is a symbol that  perform specific operations on operands (values or variables).
  - It represents an action that can be performed on one, two, or more operands.
- ## Operands
- - An operand is a value or variable that the operator works on. It can be a constant value, a variable, or a more complex expression.
+
+ **Operand:** The values or variables on which operations are performed.
+ **Operator:** The symbol that specifies the operation to be performed.
 
 **Types of Operators**
 1. Arithmetic Operators
