@@ -16,7 +16,7 @@
          * Address-of: &
          * Dereference: *
            
-   3. **Binary Operators**
+   2. **Binary Operators**
       - Operate on two operands.
       - Examples
          * Arithmetic: +, -, *, /, %
@@ -25,21 +25,27 @@
          * Bitwise: &, |, ^, <<, >>
          * Assignment: =, +=, -=, *=, /=, %=
            
-   5. **Ternary Operator**
+   3. **Ternary Operator**
+      - Operates on three operands.
+         * **Conditional: ?** : Syntax: condition ? expr1 : expr2
+-----
+ # Operator Categories
+ 1. Arithmetic Operators: +, -, *, /, %
+ 2. Relational Operators: ==, !=, <, >, <=, >=
+ 3. Logical Operators: &&, ||, !
+ 4. Bitwise Operators: &, |, ^, ~, <<, >>
+ 5. Assignment Operators: =, +=, -=, etc.
+ 6. Increment/Decrement Operators: ++, --
+ 7. Conditional Operator: ? :
+ 8. Special Operators:
+    - Sizeof: sizeof
+    - Pointer: *, &
+    - Member Access: ., ->
+    - Type Cast: (type)
+    - Comma: ,
+      
+       
  
-1. Arithmetic Operators
-2. Relational Operators
-3. Logical Operators
-4. Assignment Operators
-5. Bitwise Operators
-6. Increment/Decrement Operators
-7. Conditional (Ternary) Operator
-8. Type-Casting Operators
-9. Pointer Operators
-10. Comma Operator
-11. Sizeof Operator
-12. Member Access Operators
-13. Scope Resolution Operator
-14. New and Delete Operators
+
     
 
