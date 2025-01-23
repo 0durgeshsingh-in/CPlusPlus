@@ -3,4 +3,5 @@
   multiplication, division, and more. 
 - These operators work on numerical data types, such as int, float, double, etc.
 
-  
+| Operator  | Description | Example  | 
+| +	| Addition |	a + b |
