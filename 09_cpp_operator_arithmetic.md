@@ -3,5 +3,10 @@
   multiplication, division, and more. 
 - These operators work on numerical data types, such as int, float, double, etc.
 
-| Operator  | Description | Example  | 
-| +	| Addition |	a + b |
+<table>
+  <tbody>
+      <th>Operator</th>
+      <th>Description</th>
+      <th>Example</th>
+  </tbody>
+</table>
