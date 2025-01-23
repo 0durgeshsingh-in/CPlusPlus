@@ -36,3 +36,7 @@
    - Example:
         - Pre-decrement: --a
         - Post-decrement: a--
+
+## Key Points
+  - Arithmetic operators are binary operators, except for ++ and --, which are unary operators.
+  - Operands can be constants, variables, or expressions.
