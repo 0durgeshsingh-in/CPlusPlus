@@ -2,8 +2,8 @@ increment (++) and decrement (--) operators are used to increase or decrease the
 They can be used in both prefix and postfix forms, with slightly different behaviors.
 
 # Increment Operator (++)
- - Prefix (++variable): Increases the value of the variable first, then returns the updated value.
- - Postfix (variable++): Returns the current value of the variable, then increases it.
+ - **Prefix (++variable)**  : Increases the value of the variable first, then returns the updated value.
+ - **Postfix (variable++)** : Returns the current value of the variable, then increases it.
 
    ```cpp
    #include <iostream>
@@ -18,4 +18,22 @@ They can be used in both prefix and postfix forms, with slightly different behav
         return 0;
     }
 
-```
+# Decrement Operator (--)
+  - **Prefix (--variable)**  : Decreases the value of the variable first, then returns the updated value.
+  - **Postfix (variable--)** : Returns the current value of the variable, then decreases it.
+
+    ```cpp
+    #include <iostream>
+    using namespace std;
+    
+    int main() {
+        int b = 10;
+        // Prefix decrement
+        cout << "Prefix Decrement: " << --b << endl; // Outputs 9 (b is now 9)
+        // Postfix decrement
+        cout << "Postfix Decrement: " << b-- << endl; // Outputs 9 (b becomes 8 after this line)
+        cout << "Final Value of b: " << b << endl; // Outputs 8
+        return 0;
+    }
+    
+
