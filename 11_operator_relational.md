@@ -2,10 +2,10 @@
 Relational operators are used to compare two values and return a boolean result (true or false).
  1. == (Equal to)
  2. != (Not equal to)
- 3. <  (Less than)
- 4. >  (Greater than)
+ 3. < (Less than)
+ 4. > (Greater than)
  5. <= (Less than or equal to)
- 6. >=  (Greater than or equal to)
+ 6. >= (Greater than or equal to)
 
 ```cpp
 #include <iostream>
