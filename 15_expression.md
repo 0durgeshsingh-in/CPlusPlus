@@ -8,3 +8,9 @@
 ```cpp
 const int result = 10 + 20; // Compile-time evaluation
 ```
+##### 2. Arithmetic  Expression
+- An expression Involves arithmetic operators to perform mathematical operations.
+```cpp
+    int sum = a + b;       // Addition
+    int product = a * b;   // Multiplication
+```
