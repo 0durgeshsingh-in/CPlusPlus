@@ -31,3 +31,22 @@ const int result = 10 + 20; // Compile-time evaluation
   int shifted = a << 2; // Left shift
 ```
 
+##### 6. Assignment Expression
+- Assigns a value to a variable using the assignment operator (=).
+```cpp
+    int a = 5; // Assignment
+    a += 10;   // Compound assignment
+```
+##### 7. Conditional (Ternary) Expression
+- Uses the ternary operator (? :) to evaluate and return a value based on a condition.
+```cpp
+    int max = (a > b) ? a : b; // If a > b, return a; else return b
+```
+##### 8. Function Call Expression
+- Calls a function and uses its return value.
+```cpp
+    int result = std::max(10, 20); // Calls the max function
+```
+
+
+
