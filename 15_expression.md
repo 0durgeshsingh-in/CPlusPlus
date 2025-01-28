@@ -4,7 +4,7 @@
 ### Types of Expression
 
 ##### 1. Constant Expression
-         - An expression consisting entirely of constants and evaluates at compile time.
+- An expression consisting entirely of constants and evaluates at compile time.
 ```cpp
 const int result = 10 + 20; // Compile-time evaluation
 ```
