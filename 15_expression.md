@@ -14,3 +14,20 @@ const int result = 10 + 20; // Compile-time evaluation
     int sum = a + b;       // Addition
     int product = a * b;   // Multiplication
 ```
+##### 3. Relational (Comparison) Expression
+- Evaluates to a boolean value (true or false) by comparing two operands using relational operators.
+```cpp
+   bool result = a > b; // true if a is greater than b
+```
+##### 4. Logical Expression
+- Uses logical operators (&&, ||, !) to combine or negate boolean values.
+```cpp
+   bool result = (a > b) && (b < c); // Logical AND
+```
+##### 5. Bitwise Expression
+- Performs bitwise operations on integer values using operators like &, |, ^, ~, <<, >>.
+```cpp
+  int result = a & b; // Bitwise AND
+  int shifted = a << 2; // Left shift
+```
+
