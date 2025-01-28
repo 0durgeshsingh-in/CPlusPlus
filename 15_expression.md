@@ -48,5 +48,16 @@ const int result = 10 + 20; // Compile-time evaluation
     int result = std::max(10, 20); // Calls the max function
 ```
 
-
+##### 9. Pointer and Address Expressions
+- Expressions involving pointers and memory addresses using operators like *, &.
+```cpp
+    int x = 10;
+    int* ptr = &x; // Address-of operator
+    int y = *ptr;  // Dereference operator
+```
+##### 10. Combinational Expressions
+- Combines multiple types of expressions in a single statement.
+```cpp
+    int result = (a + b) * (c > d ? c : d); // Arithmetic + Conditional + Relational
+```
 
