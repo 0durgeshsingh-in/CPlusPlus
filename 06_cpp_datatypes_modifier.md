@@ -13,5 +13,5 @@
       - Example: short int c = 100;
    4. **Unsigned:**
       - Extends the size of the variable to allow storing larger numbers.
-      - Example: long int d = 100000;
+      - Example: long int d = 100000; 
       
