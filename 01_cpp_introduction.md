@@ -19,7 +19,7 @@ ________________________________________________________________________________
    C++ programs can run on a variety of hardware platforms and operating systems with minimal modification, provided a suitable compiler is available.
 __________________________________________________________________________________________________________
 
-C++ is commonly used in:
+### C++ is commonly used in:
 
 Game development: For high-performance games and graphics engines.
 System software: Like operating systems and device drivers.
