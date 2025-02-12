@@ -5,7 +5,7 @@
 * C++ is designed to offer both high performance and flexibility, making it suitable for a wide range of applications, from systems software to game development, real-time systems, and embedded systems.
 __________________________________________________________________________________________________________
 
-Key features of C++ include:
+### Key features of C++ include:
 
 1. Object-Oriented Programming (OOP)
    Supports key OOP concepts such as classes and objects, inheritance, polymorphism, encapsulation, and abstraction.
