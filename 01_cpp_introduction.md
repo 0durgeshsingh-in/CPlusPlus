@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 ### C++ is commonly used in:
 
-  - Game development: For high-performance games and graphics engines.
+  - **Game development:** For high-performance games and graphics engines.
   - System software: Like operating systems and device drivers.
   - Embedded systems: Used in hardware interfaces and microcontrollers.
   - Applications requiring performance: Such as simulations, financial systems, and real-time systems. 
