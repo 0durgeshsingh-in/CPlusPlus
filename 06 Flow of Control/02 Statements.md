@@ -1,6 +1,8 @@
-Statements in C++
+## Statements in C++
 
-A statement in C++ is a single instruction that the compiler executes when the program runs. Every statement in C++ ends with a semicolon ( ; ). Statements determine the flow of execution in a program.
+* A statement in C++ is a single instruction that the compiler executes when the program runs. 
+* Every statement in C++ ends with a semicolon ( ; ).
+* Statements determine the flow of execution in a program.
 
 Types of Statements in C++
 
