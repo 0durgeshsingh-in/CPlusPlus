@@ -10,13 +10,15 @@
 
 These statements perform an operation and end with a semicolon.
 
-``cpp
+```cpp
+
 Example:
 
 int x = 10;  // Assignment statement
 x = x + 5;   // Arithmetic expression statement
 cout << x;   // Output statement
-``
+
+```
 
 
 2. Compound Statements (Block Statements)
