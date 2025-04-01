@@ -21,11 +21,13 @@ cout << x;   // Output statement
 ```
 
 
-2. Compound Statements (Block Statements)
+**2. Compound Statements (Block Statements)**
 
 A group of statements enclosed within curly braces {}.
 
 Used in loops, conditionals, and functions.
+
+```cpp
 
 Example:
 
@@ -34,6 +36,8 @@ Example:
     int b = 10;
     cout << a + b;
 }  // This is a compound statement
+
+```
 
 
 3. Selection Statements (Decision-Making)
