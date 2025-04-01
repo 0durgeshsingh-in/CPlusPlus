@@ -4,17 +4,19 @@
 * Every statement in C++ ends with a semicolon ( ; ).
 * Statements determine the flow of execution in a program.
 
-Types of Statements in C++
+### Types of Statements in C++
 
-1. Expression Statements
+**1. Expression Statements**
 
 These statements perform an operation and end with a semicolon.
 
+``cpp
 Example:
 
 int x = 10;  // Assignment statement
 x = x + 5;   // Arithmetic expression statement
 cout << x;   // Output statement
+``
 
 
 2. Compound Statements (Block Statements)
