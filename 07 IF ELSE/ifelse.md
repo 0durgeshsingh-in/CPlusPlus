@@ -14,9 +14,11 @@ Syntax:
 if (condition) {
     // Code to execute if condition is true
 }
+```
 
 Example:
 
+```cpp
 #include <iostream>
 
 int main() {
