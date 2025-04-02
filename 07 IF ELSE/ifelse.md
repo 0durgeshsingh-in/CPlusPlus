@@ -5,12 +5,12 @@
 
 ---
 
-1. Syntax of if Statement
+# **1. Syntax of if Statement**
 
-The if statement checks whether a condition is true or false. If the condition evaluates to true, the block of code inside the if statement executes. If it is false, the program skips that block.
+* The if statement checks whether a condition is true or false. If the condition evaluates to true, the block of code inside the if statement executes. If it is false, the program skips that block.
 
 Syntax:
-
+```cpp
 if (condition) {
     // Code to execute if condition is true
 }
@@ -35,7 +35,7 @@ x is positive.
 
 Here, since x is 10, and 10 > 0 is true, the message is displayed.
 
-
+```
 
 ---
 
