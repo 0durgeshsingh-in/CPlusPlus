@@ -1,6 +1,6 @@
-Understanding if-else in C++ (Detailed Explanation)
+## if-else in C++
 
-The if-else statement is a fundamental control structure in C++ that allows the program to make decisions based on conditions.
+* The if-else statement is a fundamental control structure in C++ that allows the program to make decisions based on conditions.
 
 
 ---
