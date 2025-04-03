@@ -55,6 +55,7 @@ if (condition) {
 ```
 
 Example:
+```cpp
 
 #include <iostream>
 
@@ -71,7 +72,7 @@ int main() {
 
     return 0;
 }
-
+```
 Explanation:
 
 If the number is divisible by 2 (num % 2 == 0), it prints "The number is even."
