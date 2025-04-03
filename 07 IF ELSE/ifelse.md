@@ -73,6 +73,7 @@ int main() {
     return 0;
 }
 ```
+```
 Explanation:
 
 If the number is divisible by 2 (num % 2 == 0), it prints "The number is even."
@@ -88,7 +89,7 @@ The number is even.
 Enter a number: 7
 The number is odd.
 
-
+```
 ---
 
 3. if-else if-else Statement
