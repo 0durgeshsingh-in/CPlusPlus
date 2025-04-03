@@ -46,12 +46,13 @@ Here, since x is 10, and 10 > 0 is true, the message is displayed.
 If the condition in the if statement is false, the else block executes.
 
 Syntax:
-
+```cpp
 if (condition) {
     // Code to execute if condition is true
 } else {
     // Code to execute if condition is false
 }
+```
 
 Example:
 
