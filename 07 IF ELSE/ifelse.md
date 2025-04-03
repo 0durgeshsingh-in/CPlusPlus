@@ -92,12 +92,12 @@ The number is odd.
 ```
 ---
 
-3. if-else if-else Statement
+# **3. if-else if-else Statement**
 
 When there are multiple conditions to check, we use else if.
 
 Syntax:
-
+```cpp
 if (condition1) {
     // Executes if condition1 is true
 } else if (condition2) {
@@ -105,6 +105,8 @@ if (condition1) {
 } else {
     // Executes if none of the above conditions are true
 }
+
+```
 
 Example:
 
