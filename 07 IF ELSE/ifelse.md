@@ -41,7 +41,7 @@ Here, since x is 10, and 10 > 0 is true, the message is displayed.
 
 ---
 
-2. if-else Statement
+# **2. if-else Statement**
 
 If the condition in the if statement is false, the else block executes.
 
